@@ -1,0 +1,11 @@
+.vs/
+SpeedyAir/obj/
+SpeedyAir/bin/
+SpeedyAir.Domain/bin/
+SpeedyAir.Domain/obj/
+SpeedyAir.Services/bin/
+SpeedyAir.Services/obj/
+SpeedyAir.Tests/bin/
+SpeedyAir.Tests/obj/
+SpeedyAir.Utilities/bin/
+SpeedyAir.Utilities/obj/
